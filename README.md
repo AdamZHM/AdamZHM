@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋, I'm Hongming Zhang</h3>
-<h4 align="left">M.Eng student @ Duke University | ex-SDE intern @ Meta</h4>
+<h4 align="left">ECE M.Eng student @ Duke University | ex-SDE intern @ Meta</h4>
 
 
 
