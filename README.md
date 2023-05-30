@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Have+a+good+day!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hongming+hope+you+have+a+good+day!)](https://git.io/typing-svg)
 
 <!--
 **AdamZHM/AdamZHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
