@@ -5,6 +5,16 @@
 <a title="Profile Views" target="_blank" href="https://github.com/AdamZHM"><img src="https://komarev.com/ghpvc/?username=AdamZHM&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="AdamZHM" data-canonical-src="https://komarev.com/ghpvc/?username=AdamZHM&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
 </p>
 
+<hr>
+::before 
+::after 
+</hr>
+
+<p align="left" dir="auto">
+# Language and Tools
+</p>
+
+
 <!--
 **AdamZHM/AdamZHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
