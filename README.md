@@ -1,8 +1,8 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+this+is+Hongming.+Hope+you+have+a+good+day!)](https://git.io/typing-svg)
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
 <p align="left" dir="auto">
 <a title="github" target="_blank" href="https://github.com/AdamZHM"><img src="https://img.shields.io/badge/dynamic/json?color=black&label=Github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAdamZHM" ></a>
-<a title="Profile Views" target="_blank" href="https://github.com/AdamZHM"><img src="![](https://komarev.com/ghpvc/?username=AdamZHM&color=green)" ></a>
+<a title="Profile Views" target="_blank" href="https://github.com/AdamZHM"><img src="https://camo.githubusercontent.com/a5db6fec112d7eb8f2fc8fd0fbd38928e37b7954d75b88c335945869cd3f7222/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c777368656e266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="AdamZHM" data-canonical-src="https://komarev.com/ghpvc/?username=AdamZHM&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
 </p>
 
 <!--
