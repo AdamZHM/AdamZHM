@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Hongming Zhang</h1>
+<h2 align="left">Hi 👋, I'm Hongming Zhang</h2>
 <h3 align="left">M.Eng student @ Duke University | ex-SDE intern @ Meta</h3>
 
 <p align="left" dir="auto">
