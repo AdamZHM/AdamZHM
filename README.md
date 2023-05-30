@@ -25,7 +25,7 @@
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AdamZHM" />
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://raw.githubusercontent.com/AdamZHM/AdamZHM/main/assets/github-contribution-grid-snake.svg" ></div>
 
 <!--
 **AdamZHM/AdamZHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
