@@ -6,8 +6,8 @@
 </p>
 
 <hr>
-::before 
-::after 
+  ::before 
+  ::after 
 </hr>
 
 <p align="left" dir="auto">
