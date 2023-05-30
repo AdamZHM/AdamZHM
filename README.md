@@ -1,5 +1,10 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hongming+hope+you+have+a+good+day!)](https://git.io/typing-svg)
 
+<p align="center">
+<a title="Hits" target="_blank" href="https://github.com/Achuan-2/Achuan-2"><img src="https://hits.b3log.org/Achuan-2/Achuan-2.svg" ></a>
+<a title="github" target="_blank" href="https://github.com/Achuan-2"><img src="[https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAchuan-2&labelColor=282c34&color=353940&logo=github&longCache=true](https://img.shields.io/badge/dynamic/json?color=green&label=Github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAdamZHM)" ></a>
+</p>
+
 <!--
 **AdamZHM/AdamZHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
