@@ -1,8 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi,+this+is+Hongming.+Hope+you+have+a+good+day!)](https://git.io/typing-svg)
 
-<p align="left">
-<a title="Hits" target="_blank" href="https://github.com/Achuan-2/Achuan-2"><img src="https://hits.b3log.org/Achuan-2/Achuan-2.svg" ></a>
-<a title="github" target="_blank" href="https://github.com/AdamZHM"><img src="https://img.shields.io/badge/dynamic/json?color=green&label=Github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAdamZHM" ></a>
+<p align="left" dir="auto">
+<a title="github" target="_blank" href="https://github.com/AdamZHM"><img src="https://img.shields.io/badge/dynamic/json?color=black&label=Github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAdamZHM" ></a>
 </p>
 
 <!--
